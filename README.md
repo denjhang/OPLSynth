@@ -1,0 +1,2 @@
+# OPL3 synthetic real instrument experiment
+ I spent a lot of time experimenting with the OPL3 Bank Editor, starting from the DMXOPL3 sound bank and gradually approaching the sound of a real instrument. To make the 2x2op sound of OPL3 close to the sound of real instruments, in addition to repeated experiments, it also requires perceptual knowledge of OPL3 FM synthesis. At present, I am used to using OPL3 to model the sound of musical instruments. Of course, all this is done in the brain. I don't use FFT software to analyze the sound, I just use my ears and brain.
