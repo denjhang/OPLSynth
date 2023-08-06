@@ -10,9 +10,9 @@ Changing the waveform is more significant to the sound than changing the algorit
 I actually recently made a realistic solo violin sound, but that requires an external reverb to achieve a good effect. 
 For familiar instruments, I will deconstruct these sounds in my brain, mainly the overtones of the instrument, and approach the sound in memory through constant experiments. 
 
-https://www.youtube.com/watch?v=9-6SGzon37U 
-https://www.youtube.com/watch?v=9-6SGzon37U 
-https://www.youtube.com/watch?v=7j9nBKrJ8i4 
+https://www.youtube.com/watch?v=9-6SGzon37U  
+https://www.youtube.com/watch?v=9-6SGzon37U  
+https://www.youtube.com/watch?v=7j9nBKrJ8i4  
 
 At present, I have achieved high fidelity on the two instruments of Harpsichord and Accordion, and I have also made variant sounds of many instruments to be closer to real instruments. For the piano sound, it currently sounds more like a synthesized sound. 
 These OPL3 instruments feature "native FM reverb", you don't need to add any post-processing DSP reverb to hear crisp instrument sound and moderate reverb.
